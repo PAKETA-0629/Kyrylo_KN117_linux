@@ -1,2 +1,3 @@
-# linuxLab5
-suuuuuuuka
+# linuxLab
+Kyrylo Maltsev
+kn-117
